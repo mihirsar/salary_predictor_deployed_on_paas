@@ -1,2 +1,2 @@
-# PaaSInstance
-Demo to host ml model with flask
+# Salary_Predictor_deployed_on_PaaS
+
